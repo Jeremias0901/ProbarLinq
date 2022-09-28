@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.exe
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.deps.json
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.runtimeconfig.json
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.dll
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\bin\Debug\netcoreapp3.1\ProbarLinq.pdb
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.dll
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.pdb
+C:\Users\Administrador\source\repos\ProbarLinqSolucion\ProbarLinq\obj\Debug\netcoreapp3.1\ProbarLinq.genruntimeconfig.cache
