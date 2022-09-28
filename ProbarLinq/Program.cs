@@ -12,7 +12,7 @@ namespace ProbarLinq
             tableEmpresasEmpleados.getCeo();
 
             tableEmpresasEmpleados.getEnterpriseName(new Empleado { Id = 5, Nombre = "Gerardo", Cargo = "FrontEnd", EmpresaId = 1, Salario = 1500.75});
-            tableEmpresasEmpleados.getEmployeesPildoras();
+            tableEmpresasEmpleados.getEmployeesYouTube();
 
 
             // The Three Parts of a LINQ Query:
@@ -98,7 +98,7 @@ namespace ProbarLinq
             Console.WriteLine();
         }
 
-        public void getEmployeesPildoras()
+        public void getEmployeesYouTube()
         {
             IEnumerable<Empleado> empleadosResultantes = from empleado in ListEmpleados
                                                            join empresa in ListEmpresas
